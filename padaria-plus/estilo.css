@@ -1,0 +1,72 @@
+
+body {
+    margin: 0px auto;
+    font-family: tahoma;
+    background-color: rgb(248, 242, 233);
+}
+
+.secao-topo {
+    max-width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.imagem-logo {
+    width: 200px;
+}
+
+a {
+    margin: 0px 10px;
+    color: maroon;
+}
+
+.secao-inicial {
+    border-top: 1px solid orange;
+    max-width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.secao-produtos {
+    max-width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: orange;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.imagem-produtos {
+    max-width: 80%;
+}
+
+.secao-produtos h1, .secao-produtos h2, .secao-produtos p {
+    color: white;
+}
+
+.secao-produtos-texto {
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 25px;
+}
+
+h1 {
+    font-size: 28px;
+    padding-top: 15px;
+}
+
+h2 {
+    color: orange;
+    font-weight: 100;
+}
+
+.imagem-padaria {
+    width: 100%;
+}
+.paragrafo-rodape {
+    text-align: center;
+}
+
+span {
+    font-weight: bold
+}
